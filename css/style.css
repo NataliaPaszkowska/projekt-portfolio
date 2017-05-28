@@ -1,6 +1,16 @@
+/* 
+ * generalne style - START 
+ */
+
+* {
+    box-sizing: border-box;
+}
+
 body {
-  margin: 0;
-  font-family: 'Lato';
+    font-family: 'Lato', 'Sans-serif';
+    color: #291f1a;
+    margin: 0;
+    background-color: aquamarine /* roboczy */;
 }
 
 #menu-nav {
