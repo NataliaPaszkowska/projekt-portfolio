@@ -17,6 +17,9 @@ a {
     transition: all .3s;
 }
 
+span.green {
+    color: #1ac056;
+}
 /*
  * genarlne style - STOP
  */
@@ -55,10 +58,10 @@ a {
  */
 
 /*
- * Header - START
+ * main header - START
  */
 
-#header tlo {
-    width: 100%;
-}
 
+/*
+ * main header - STOP
+ */
