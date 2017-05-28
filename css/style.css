@@ -17,6 +17,14 @@ a {
     transition: all .3s;
 }
 
+/*
+ * genarlne style - STOP
+ */
+
+/*
+ * Main nav style - START
+ */
+
 #main-nav {
     background-color: #fff;
 }
@@ -42,21 +50,16 @@ a {
     color: #291f1a;
 }
 
+/*
+ * Main nav style - STOP
+ */
 
+/*
+ * Header - START
+ */
 
-
-
-
-/*#menu-nav .menu-item {
-  padding: 25px;
-  list-style: none;
-  display: inline-block;
+#tlo {
+    width: 100%
 }
-#menu-nav .menu-item a {
-    text-decoration: none;
-    color: #1ac056;
-    
-}
-#menu-nav ul {
-    margin: 0;
-}*/
+
+
