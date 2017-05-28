@@ -21,6 +21,11 @@ span.green {
     font-weight: 400;
 }
 
+.col-1-2 {
+    width: 50%;
+    float: left;
+    
+}
 
 /*
  * genarlne style - STOP
@@ -103,9 +108,24 @@ span.green {
  * main header styles - STOP
  */
 
+/* about me - start */
+
+#about {
+    background-color: #f9fcfe;
+    overflow: hidden;    
+}
+
+#about figure {
+    margin: 0;
+}
+
+#about figure img {
+    width: 40%;
+    height: 40%;
+}
 
 
-
+/* about me - stop */
 
 
 
