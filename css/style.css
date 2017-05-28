@@ -58,8 +58,6 @@ a {
  * Header - START
  */
 
-#tlo {
-    width: 100%
+#header tlo {
+    width: 100%;
 }
-
-
