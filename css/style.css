@@ -14,14 +14,18 @@ body {
 }
 
 #menu-nav {
-    text-align: right;
     background-color: #fff;
 }
 
-#menu-nav .menu-item {
-  display: inline-block;
+#menu-nav ul {
+    margin: 0;
+}
+
+
+/*#menu-nav .menu-item {
   padding: 25px;
   list-style: none;
+  display: inline-block;
 }
 #menu-nav .menu-item a {
     text-decoration: none;
@@ -30,4 +34,4 @@ body {
 }
 #menu-nav ul {
     margin: 0;
-}
+}*/
