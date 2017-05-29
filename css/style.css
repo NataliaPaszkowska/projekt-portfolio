@@ -25,6 +25,11 @@ span.green {
     font-weight: 400;
 }
 
+section {
+    padding: 30px 80px;
+}
+
+/* tworzenie 2 kolumn */
 .col-1-2 {
     width: 50%;
     float: left;
@@ -116,7 +121,8 @@ span.green {
 
 #about {
     background-color: #f9fcfe;
-    overflow: hidden;    
+    overflow: hidden;   
+    box-shadow: 0px 2px 16px -1px rgba(0,0,0,0.75);
 }
 
 #about figure {
@@ -128,8 +134,7 @@ span.green {
     max-width: 100%;
     max-height: 350px;
     border: 10px solid #fff;
-    border-radius: 10px;
-   
+    border-radius: 10px;   
 }
 
 #about div p {
@@ -140,7 +145,12 @@ span.green {
 /* about me - stop */
 
 
-
+#skill p {
+    font-weight: 300;
+    line-height: 24px;
+    text-align: center;
+    
+}
 
 
 
