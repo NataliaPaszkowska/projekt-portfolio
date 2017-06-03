@@ -167,5 +167,12 @@ figure {
     text-align: center;
 }
 
+#skills div#skills-icons {
+    text-align: center;
+}
+
+#skills #skills-icons figure {
+    display: inline-block;
+}
 
 
