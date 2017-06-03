@@ -145,15 +145,27 @@ section {
 /* about me - stop */
 
 
+/*
 #skill p {
     font-weight: 300;
     line-height: 24px;
-    text-align: center;
-    
+    text-align: center; 
 }
 
+figure {
+    display: inline-block;
+    text-align: center;
+    font-size: 1em;
+}
+#foto {
+    text-align: center;
+}
 
+*/
 
+#skills > p {
+    text-align: center;
+}
 
 
 
