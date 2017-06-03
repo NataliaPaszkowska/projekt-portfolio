@@ -175,4 +175,38 @@ figure {
     display: inline-block;
 }
 
+/* section portfolio styles */
+
+#portfolio #portfolio-item-1 {
+    background-image: url(portfolio1.jpg);
+}
+
+#portfolio #portfolio-item-2 {
+    background-image: url(portfolio2.jpg);
+}
+
+#portfolio #portfolio-item-3 {
+    background-image: url(portfolio3.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
