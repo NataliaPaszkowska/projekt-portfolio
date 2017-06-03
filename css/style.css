@@ -230,7 +230,7 @@ figure {
     position: relative;
 }
 
-#portfolio .portfolio-items .portfolio-item .item-mask .item-content item-content-inner {
+#portfolio .portfolio-items .portfolio-item .item-mask .item-content .item-content-inner {
     
     color: #fff;
     position: absolute;
@@ -241,10 +241,18 @@ figure {
     padding: 5px;
 }
 
+#portfolio .portfolio-items .portfolio-item .item-mask .item-content .item-content-inner a{
+    color: #fff;
+}
+
+#portfolio .portfolio-items .portfolio-item .item-mask .item-content .item-content-inner a:hover {
+    color: #1ac056;
+}
+
 
 /* style footer */
 
-/*footer#contact h5 {
+footer#contact h5 {
     color: #fff;
     font-family: 'Lato', 'Sans-serif';
     font-size: 35px;
@@ -261,7 +269,7 @@ footer#contact address#contact-content {
 }
 footer#contact address#contact-content a {
     color: #1ac056;
-}*/
+}
  
 
 
