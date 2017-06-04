@@ -52,6 +52,10 @@ section {
     width: 100%;
 }
 
+#main-nav .toggle, #drop {
+    display: none;
+}
+
 #main-nav ul {
     margin: 0;
     text-align: right;
@@ -424,7 +428,6 @@ footer#contact address#contact-content a {
     color: #1ac056;
 }*/
  
-
 
 
 
